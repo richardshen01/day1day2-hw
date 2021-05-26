@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+div{
+    justify-content: center;
+}
